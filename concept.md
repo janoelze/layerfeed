@@ -1,14 +1,16 @@
-Layerfeed: A system to enrich video with timestamped textual data.
+# Layerfeed
+### A system to enrich video with timestamped textual data.
 
-# Contributors
+## Contributors
 
 - Jan Oelze
 - Jathavan Sriram
 
-# Abstract
-# Introduction
-# Structure of a Layerfeed
+## Abstract
+## Introduction
+## Structure of a Layerfeed
 (...)
-# Matching layerfeeds to video files
-# Conclusion
-# References
+## Matching layerfeeds to video files
+## Examples
+## Conclusion
+## References
