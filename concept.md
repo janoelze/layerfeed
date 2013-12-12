@@ -11,7 +11,35 @@ This document outlines a simple specification of the Layerfeed system.
 ## Abstract
 ## Introduction
 ## Structure of a Layerfeed
-(...)
+
+A Layerfeed consists of one or more text elements.
+
+```
+{
+   "frames": {
+      "start": 16500,
+      "end": 20500
+   },
+   "text": {
+      "title": "Trivia",
+      "body": "The bridge in the background of this scene later collapsed, due to a heavy camera car."
+   },
+   "actions":[
+      {
+         "url": "http://www.imdb.com/title/tt0087332/trivia/432908/comment",
+         "text": "Comment"
+      },
+      {
+         "url": "http://www.twitter.com/post/",
+         "text": "Share"
+      }
+   ]
+}
+```
+
+#### Required Fields
+#### Usage
+
 ## Matching layerfeeds to video files
 ## Examples
 ## Conclusion
