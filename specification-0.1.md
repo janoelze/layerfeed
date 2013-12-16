@@ -20,6 +20,12 @@ http://creativecommons.org/licenses/by-sa/3.0/
   * ```identifier``` - This identifier field must contain a string that uniquely identifies your Layerfeed file. We recommend using [UTI format](http://en.wikipedia.org/wiki/Uniform_Type_Identifier).
   * ```version``` - The version of your Layerfeed.
 
+#### Goals
+
+We aim to design Layerfeed in a way that enables individuals to subtitle videos with textual data. Current subtite formats lack sophisticated features like in-text hotlinks or providing x and y coordinates to position text on screen. 
+
+#### Outline
+
 #### Example Layerfeed
 
 The following snippet shows an example layerfeed containing one layer item.
@@ -58,3 +64,4 @@ The following snippet shows an example layerfeed containing one layer item.
 ```
 
 ### Handling layerfeed versions
+### Handling layerfeed to video matching
