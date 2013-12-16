@@ -1,11 +1,17 @@
 # Layerfeed Specification
 ## Version 0.1
 
-### 1. Abstract
+### Abstract
 
 The Layerfeed standard is a file format designed to release subtitle-like text data for video files in a simple and manageable package.
 
-### 2. Specification
+### License
+
+This document is distributed under a Creative Commons Attribution-ShareAlike license. For details, see:
+
+http://creativecommons.org/licenses/by-sa/3.0/
+
+### Specification
 
 * An Layerfeed file is a normal plain text file containing JSON-structured data.
 * Layerfeed files end with a ".layer" extension.
