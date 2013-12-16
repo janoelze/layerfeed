@@ -22,7 +22,7 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 #### Goals
 
-We aim to design Layerfeed in a way that enables individuals to subtitle videos with textual data. Current subtite formats lack sophisticated features like in-text hotlinks or providing x and y coordinates to position text on screen. 
+We aim to design Layerfeed in a way that enables individuals to subtitle videos with timestamped textual data. Current subtite formats lack sophisticated features like in-text hotlinks or providing x and y coordinates to position text on screen. 
 
 #### Outline
 
