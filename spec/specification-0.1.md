@@ -11,6 +11,14 @@ This document is distributed under a Creative Commons Attribution-ShareAlike lic
 
 http://creativecommons.org/licenses/by-sa/3.0/
 
+### Goals / Rationale
+
+Current subtite formats lack sophisticated features like in-text hotlinks or providing x and y coordinates to position text on screen.
+
+(...)
+
+We aim to design Layerfeed in a way that enables individuals to enrich videos with timestamped textual data. Layerfeed tries to encourage individuals to create creative and new content. 
+
 ### Specification
 
 * An Layerfeed file is a normal plain text file containing JSON-structured data.
@@ -19,10 +27,6 @@ http://creativecommons.org/licenses/by-sa/3.0/
   * ```title``` - A title for your Layerfeed.
   * ```identifier``` - This identifier field must contain a string that uniquely identifies your Layerfeed file. We recommend using [UTI format](http://en.wikipedia.org/wiki/Uniform_Type_Identifier).
   * ```version``` - The version of your Layerfeed.
-
-#### Goals
-
-We aim to design Layerfeed in a way that enables individuals to subtitle videos with timestamped textual data. Current subtite formats lack sophisticated features like in-text hotlinks or providing x and y coordinates to position text on screen. 
 
 #### Outline
 
