@@ -69,3 +69,6 @@ The following snippet shows an example layerfeed containing one layer item.
 
 ### Handling layerfeed versions
 ### Handling layerfeed to video matching
+### Displaying 
+
+![](https://s3-eu-west-1.amazonaws.com/51e3d489f1e/2013-12-18-06-02-08-52b12c50db205.png)
